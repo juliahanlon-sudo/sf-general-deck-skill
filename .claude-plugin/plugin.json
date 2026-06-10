@@ -1,0 +1,8 @@
+{
+  "name": "google-slides-custom",
+  "description": "Custom Google Slides skills — general-purpose Salesforce branded deck builder.",
+  "version": "1.2.0",
+  "author": {
+    "name": "Julia Hanlon"
+  }
+}

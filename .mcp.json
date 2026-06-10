@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "google-slides": {
+      "headers": {
+        "Authorization": "Bearer ab5c09fa-5d6a-43b6-b6a5-a291bc92cfe0"
+      },
+      "type": "http",
+      "url": "http://127.0.0.1:29051/mcp/servers/google-slides"
+    }
+  }
+}
